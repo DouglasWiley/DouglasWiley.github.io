@@ -1,2 +1,2 @@
 # DouglasWiley.github.io
-Github Page
+Basic about me page created using Bulma with Material Icons
